@@ -7,6 +7,10 @@ The connection are soldered and connected across to the STM32F44RE board to read
 The sensor is then calibrated to the actual temperature. 
 After calibration a different code is run on the board to output the actual temperature readings realtime.
 
+![ntc test](https://user-images.githubusercontent.com/38221793/58839714-30325500-8663-11e9-897a-73da9fca68e5.JPG)
+
 The realtime temperature readings for a range of temperature is plotted in MATLAB  to obtain the characteristic graph of the NTC chip.
+
+![NTCf](https://user-images.githubusercontent.com/38221793/58839717-33c5dc00-8663-11e9-8b8f-e640aa579e0e.png)
 
 https://www.behance.net/gallery/81069003/Temperature-Sensor
